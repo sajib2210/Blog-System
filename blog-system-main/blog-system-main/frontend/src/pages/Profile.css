@@ -1,0 +1,62 @@
+.profile-container {
+	margin: 40px;
+}
+
+.user-info {
+	margin-bottom: 20px;
+}
+
+.posts-section,
+.follow-section {
+	margin-top: 20px;
+}
+
+.post {
+	border: 1px solid #ddd;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.follow-section ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.follow-section li {
+	margin-bottom: 5px;
+}
+
+.post.shared {
+	background-color: #f9f9f9;
+	border-left: 4px solid #007bff;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.post.shared h4 {
+	color: #007bff;
+}
+
+.post img {
+	max-width: 100%;
+	margin-top: 10px;
+}
+
+.post input,
+.post textarea {
+	width: 100%;
+	margin: 5px 0;
+	padding: 8px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.post button {
+	margin-right: 10px;
+}
+
+.post img {
+	max-width: 100%;
+	margin-top: 10px;
+	border-radius: 4px;
+}

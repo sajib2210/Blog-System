@@ -1,0 +1,18 @@
+.posts-list {
+	margin-top: 20px;
+}
+
+.post {
+	border: 1px solid #ddd;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 10px;
+}
+
+.post h4 {
+	margin: 0 0 5px;
+}
+
+.post p {
+	margin: 0;
+}

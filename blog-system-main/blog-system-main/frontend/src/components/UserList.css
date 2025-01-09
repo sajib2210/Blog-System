@@ -1,0 +1,21 @@
+.follow-button {
+	padding: 5px 10px;
+	margin-left: 10px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	background-color: #007bff;
+	color: #fff;
+}
+
+.follow-button:hover {
+	background-color: #0056b3;
+}
+
+.follow-button.unfollow {
+	background-color: #dc3545;
+}
+
+.follow-button.unfollow:hover {
+	background-color: #a71d2a;
+}

@@ -1,0 +1,29 @@
+.create-post-form {
+	margin-bottom: 20px;
+}
+
+.create-post-form form {
+	display: flex;
+	flex-direction: column;
+}
+
+.create-post-form input,
+.create-post-form textarea {
+	margin-bottom: 10px;
+	padding: 8px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+.create-post-form button {
+	background-color: #4caf50;
+	color: white;
+	padding: 10px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.create-post-form button:hover {
+	background-color: #45a049;
+}
